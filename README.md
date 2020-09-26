@@ -25,7 +25,7 @@ The Design document (DD) must contain a functional description of the system, an
 The graphical user interface of our solution for the SafeStreets problem can be found in the GUI folder.<br>
 The login and home page are the following:<br>
 <p align="center">
-<img src="https://github.com/StevenSalazarM/SafeStreets-Polimi/blob/master/GUI/login_and_menu.png" width="1000" height="700"/>
+<img src="https://github.com/StevenSalazarM/SafeStreets-Polimi/blob/master/GUI/login_and_menu.png" />
 </p>
 <br>
 
